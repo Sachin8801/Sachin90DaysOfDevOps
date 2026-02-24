@@ -169,13 +169,23 @@ Output-
 
 
  ./args_demo.sh apple banana grapes
+
+
 It will be the name of the Script file: ./args_demo.sh
 Total number of arguments: 3
 All arguments listed: apple banana grapes
+
+
 ubuntu@ip-172-31-0-103:~/scripts$ ./args_demo.sh apple banana grapes peas
+
+
+
 It will be the name of the Script file: ./args_demo.sh
 Total number of arguments: 4
 All arguments listed: apple banana grapes peas
+
+
+
 ubuntu@ip-172-31-0-103:~/scripts$ ./args_demo.sh bmw audi
 It will be the name of the Script file: ./args_demo.sh
 Total number of arguments: 2
